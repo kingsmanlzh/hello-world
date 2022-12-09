@@ -1,2 +1,2 @@
 # hello-world
-tutorial repository
+안녕! 이것이 처음 브렌칭한 후 커밋을 위한 메세지야!
